@@ -27,5 +27,5 @@ To run terraria-bot you need the following technologies
   
 ### Running
 
-  - Add your Bot to your Discord Channel. I suggest using [oauth2 URL](https://discordapp.com/developers/docs/topics/oauth2)
+  - Add your Bot to your Discord Channel. Suggestion: [oauth2 URL](https://discordapp.com/developers/docs/topics/oauth2)
   - Start your server using the **startup** script and run Bot.py file
