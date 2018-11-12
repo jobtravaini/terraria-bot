@@ -23,7 +23,7 @@ To run terraria-bot you need the following technologies
 ### Configuration
 
   - It is required to [create an Admin user on your TShock Server](https://tshock.readme.io/docs/getting-started)
-  - It is required to configure your TShock Admin username and password (_USERNAME and PASSWORD constants_) on the [Server.py](https://github.com/jobtravaini/terraria-bot/blob/master/tshock/Server.py) file (_REST API requires admin access_)
+  - It is required to configure your TShock Admin username and password (_**USERNAME** and **PASSWORD** constants_) on the [Server.py](https://github.com/jobtravaini/terraria-bot/blob/master/tshock/Server.py) file (_REST API requires admin access_)
   
 ### Running
 
