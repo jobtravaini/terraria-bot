@@ -1,7 +1,7 @@
 import time
 import discord
 import logging.config
-import command.CommandMap as CommandMap
+import command.command_map as CommandMap
 
 LOG_COMMAND_AUTHORIZATION_GRANTED = 'Service {0}: Authorization Granted'
 LOG_COMMAND_AUTHORIZATION_DENIED = 'Service {0}: Authorization Denied'
@@ -67,3 +67,4 @@ while True:
     except Exception:
         logger.info('Reconnecting...')
         time.sleep(5)
+

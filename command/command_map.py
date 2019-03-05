@@ -1,5 +1,5 @@
-import tshock.Server as Server
-import util.ExternalIP as ExternalIP
+import tshock.server_adapter as Server
+import util.ip_handler as ExternalIP
 
 _map = dict()
 
