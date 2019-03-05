@@ -18,12 +18,12 @@ To run terraria-bot you need the following technologies
   - **TShock** should be installed and configured to expose REST Services on your localhost.
   - **startup script** should be located at your TShock root folder
   - You have to configure your [Discord Bot Application](https://github.com/SinisterRectus/Discordia/wiki/Setting-up-a-Discord-application)
-  - Populate your token on the [Bot.py](https://github.com/jobtravaini/terraria-bot/blob/master/Bot.py) constant **TOKEN**
+  - Populate your token on the [bot.py](https://github.com/jobtravaini/terraria-bot/blob/master/Bot.py) constant **TOKEN**
 
 ### Configuration
 
   - It is required to [create an Admin user on your TShock Server](https://tshock.readme.io/docs/getting-started)
-  - It is required to configure your TShock Admin username and password (_**USERNAME** and **PASSWORD** constants_) on the [Server.py](https://github.com/jobtravaini/terraria-bot/blob/master/tshock/Server.py) file (_REST API requires admin access_)
+  - It is required to configure your TShock Admin username and password (_**USERNAME** and **PASSWORD** constants_) on the [server_adapter.py](https://github.com/jobtravaini/terraria-bot/blob/master/tshock/Server.py) file (_REST API requires admin access_)
   
 ### Running
 
