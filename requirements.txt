@@ -56,7 +56,7 @@ prestoadmin == 2.3
 rapier == 0.0.4
 
 # tshock\Server.py: 1
-requests == 2.18.4
+requests == 2.20.1
 
 # command\CommandMap.py: 2
 stackmob-cli == 0.1.1
